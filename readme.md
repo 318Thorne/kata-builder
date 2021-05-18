@@ -1,5 +1,7 @@
 # The brief
 
+[kata from codewars](https://www.codewars.com/kata/59f6a855bee845d3cd000046)
+
 You have a simple Cafeteria.
 
 You can create 3 coffee recipes:
@@ -18,6 +20,8 @@ You need to create a Coffee by implementing a CoffeeBuilder struct/class like in
 
 requires dotnet sdk
 
-`cd cafeteria.tests`
-`dotnet build`
-`dotnet test`
+```
+cd cafeteria.tests
+dotnet build
+dotnet test
+```
